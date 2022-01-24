@@ -6,3 +6,4 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+/1_01_user_with_lombok.patch

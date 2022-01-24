@@ -9,8 +9,6 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 import java.util.Set;
 
-@Entity
-@Table(name = "users")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
